@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KendrickIW/happy-errors.git"
+  },
   "author": "Kendrick Williams <williams.kendrick@gmail.com>",
   "license": "ISC"
 }
