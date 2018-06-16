@@ -4,12 +4,18 @@
   "description": "Happy-Errors takes your errors and makes them easier to understand",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --compilers js:@babel/register"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/KendrickIW/happy-errors.git"
   },
   "author": "Kendrick Williams <williams.kendrick@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.51",
+    "@babel/preset-env": "^7.0.0-beta.51",
+    "@babel/register": "^7.0.0-beta.51",
+    "mocha": "^5.2.0"
+  }
 }
