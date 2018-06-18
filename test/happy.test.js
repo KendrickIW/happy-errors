@@ -1,4 +1,4 @@
-import happy from '../src/happy.js';
+import happy from '../src/happy';
 
 describe('happy', () => {
     it('should be defined');
