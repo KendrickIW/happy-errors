@@ -1,3 +1,3 @@
-class HappyError {}
+class HappyError extends Error {}
 
 export default HappyError
