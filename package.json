@@ -1,6 +1,6 @@
 {
   "name": "happy-errors",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Happy-Errors takes your errors and makes them easier to understand",
   "main": "bundles/happy-errors.umd.js",
   "module": "./esm5/index.js",
