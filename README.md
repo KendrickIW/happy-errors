@@ -9,3 +9,5 @@ To install the stable version:
 ```bash
 npm install --save happy-errors
 ```
+
+## Future Task
